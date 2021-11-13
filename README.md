@@ -14,7 +14,7 @@ The game requires not installing. Simply clone this repository, run in the comma
 
 ```bash
 # Clone this repo
-$ git clone https://gitlab.ewi.tudelft.nl/ti3115tu/2021-2022/group-25.git
+$ git clone https://github.com/niightingale/Guardian-of-the-Railroad.git
 ```
 
 Further than this there are no further requirements. The game is very lightweight, it even runs on mobile devices (tested on OnePlus One and 3T).
