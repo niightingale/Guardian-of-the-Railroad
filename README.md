@@ -22,6 +22,8 @@ Further than this there are no further requirements. The game is very lightweigh
 ## ✍️ How to Use
 After the repository has been cloned locally, the game can simply be openend by running `Tomo-Chan.exe`.
 
+The source code is kept in a private repository but can be released upon request.
+
 ## 🖼️ Graphics
 - The 3D models were created in Blender by niightingale and [@t.tlive](https://www.instagram.com/t.tlive/)
 - The 2D spirtes and images were created by niightingale and [@borkbin](https://www.instagram.com/borkbin/)
