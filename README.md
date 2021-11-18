@@ -1,3 +1,5 @@
+<p align="center"><img width=25% src="https://github.com/niightingale/Guardian-of-the-Railroad/blob/main/logo2.png"></p>
+
 # Guardian of the Railroad
 #### by Niightingale
 > Light-RPG game made in the Unity game engine. 
