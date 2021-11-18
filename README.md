@@ -26,7 +26,7 @@ The source code is kept in a private repository but can be released upon request
 
 ## 🖼️ Graphics
 - The 3D models were created in Blender by niightingale and [@t.tlive](https://www.instagram.com/t.tlive/)
-- The 2D spirtes and images were created by niightingale and [@borkbin](https://www.instagram.com/borkbin/)
+- The 2D spirtes and imagery are illustrated by niightingale and [@borkbin](https://www.instagram.com/borkbin/)
 
 ## 📑 License
 Guardian of the Railroad is licensed under the [GNU General Public Licence v3.0](https://www.gnu.org/licenses/gpl-3.0.nl.html#top). All original assets are under Creative Commons licence ([CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
