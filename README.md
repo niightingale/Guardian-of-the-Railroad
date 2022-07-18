@@ -12,7 +12,7 @@
 - 3D Graphics
 
 ## :package: How to Install
-The game requires not installing. Simply clone this repository, run in the command line:
+The game does not require installing. Simply clone this repository, run in the command line:
 
 ```bash
 # Clone this repo
